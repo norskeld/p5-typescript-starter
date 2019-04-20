@@ -10,8 +10,12 @@ Simply clone this repo, install dependencies and you're set.
 
 ### Development
 
-`npm run start`
+`npm start`
 
 ### Bundling
 
 `npm run build`
+
+### Note
+
+This boilerplate uses p5@**0.7.2** to match TypeScript typings.
