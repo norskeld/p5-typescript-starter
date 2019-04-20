@@ -1,0 +1,33 @@
+{
+  "name": "p5-typescript-starter",
+  "version": "1.0.0",
+  "description": "A bare-bones boilerplate for p5.js with TypeScript & Parcel",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "p5js",
+    "boilerplate",
+    "typescript",
+    "parcel-bundler"
+  ],
+  "homepage": "https://github.com/arcdelta/p5-typescript-starter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arcdelta/p5-typescript-starter.git"
+  },
+  "author": "Vladislav Mon <arcdeltax@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "p5": "^0.7.2"
+  },
+  "devDependencies": {
+    "@types/p5": "^0.7.2",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "parcel-bundler": "^1.12.3",
+    "typescript": "^3.4.4"
+  }
+}
