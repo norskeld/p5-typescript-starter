@@ -24,4 +24,4 @@ npm run build
 
 ## Note
 
-This boilerplate uses p5@**0.7.2** to match TypeScript typings. Feel free to open an issue or create a PR if you noticed that versions of p5 and/or @types used in this repo are severely outdated. :)
+This boilerplate uses p5@**0.7.2** to match TypeScript typings. Feel free to open an issue or create a PR if you noticed that versions of p5 and/or @types used in this repo severely outdated. :)
