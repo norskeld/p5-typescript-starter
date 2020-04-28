@@ -18,4 +18,4 @@ Simply clone this repo, install dependencies and you're set.
 
 ### Note
 
-This boilerplate uses p5@**0.7.2** to match TypeScript typings.
+This boilerplate uses p5@**0.9.0** to match TypeScript typings.
